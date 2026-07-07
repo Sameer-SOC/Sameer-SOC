@@ -36,8 +36,7 @@
 ## ⚔️ Core Skill Domains
 
 <table>
-<tr>
-<td width="33%" align="center" valign="top" bgcolor="#0f172a">
+  
 <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#00FF9C"></td></tr></table>
 <h3>🔍</h3>
 <b>SOC Operations</b><br/><br/>
