@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Sameer+Hassan;SOC+Analyst+%7C+Threat+Hunter;Turning+Logs+Into+Leads;Detect+%E2%86%92+Investigate+%E2%86%92+Respond" alt="Typing SVG"/>
 
-SOC L1 Intern | Blue Team | Threat Hunting | SIEM | Log Analysis | Digital Forensics | Cybersecurity Student
+**SOC L1 Intern @ Axeronix Technologies** &nbsp;|&nbsp; Blue Team Analyst &nbsp;|&nbsp; KFUEIT, Cybersecurity
 
 </div>
 
