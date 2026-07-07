@@ -28,7 +28,7 @@
 <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="42" title="C++"/>
 
 <br/><sub>Splunk &nbsp;·&nbsp; Wireshark &nbsp;·&nbsp; Wazuh &nbsp;·&nbsp; Linux &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Java &nbsp;·&nbsp; C++</sub>
-<br/><sub><i>Wazuh shown with a generic radar icon — no official brand logo exists in the icon library.</i></sub>
+<br/>
 </div>
 
 <br/>
@@ -103,7 +103,6 @@ Problem Solving &nbsp;·&nbsp; Video Editing &nbsp;·&nbsp; Social Media Handlin
 </tr>
 </table>
 
-<sub>Note: same shield icon across platforms, different accent colors per platform — official logos aren't available for all of them.</sub>
 
 <br/>
 
