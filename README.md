@@ -19,13 +19,13 @@
 ## 🧰 Tools & Technologies
 
 <div align="center">
-<img src="https://cdn.simpleicons.org/splunk/65A637" width="42" title="Splunk"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="42" title="Wireshark"/>&nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/mdi/radar.svg?color=%2300A7E1" width="42" title="Wazuh"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/linux/FCC624" width="42" title="Linux"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" title="SQL"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openjdk/F58219" width="42" title="Java"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="42" title="C++"/>
+<a href="https://www.splunk.com/"><img src="https://cdn.simpleicons.org/splunk/65A637" width="42" title="Splunk"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.wireshark.org/"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="42" title="Wireshark"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://wazuh.com/"><img src="https://api.iconify.design/mdi/radar.svg?color=%2300A7E1" width="42" title="Wazuh"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux/FCC624" width="42" title="Linux"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.mysql.com/"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" title="SQL"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.oracle.com/java/"><img src="https://cdn.simpleicons.org/openjdk/F58219" width="42" title="Java"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://isocpp.org/"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="42" title="C++"/></a>
 
 <br/><sub>Splunk &nbsp;·&nbsp; Wireshark &nbsp;·&nbsp; Wazuh &nbsp;·&nbsp; Linux &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Java &nbsp;·&nbsp; C++</sub>
 <br/>
@@ -37,22 +37,17 @@
 
 <table>
   <tr>
-    
 <td width="33%" align="center" valign="top" bgcolor="#0f172a">
-  
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#00FF9C"></td></tr></table>
 <h3>🔍</h3>
 <b>SOC Operations</b><br/><br/>
 Log Analysis<br/>Triaging<br/>Incident Summary<br/>Incident Response
 </td>
 <td width="33%" align="center" valign="top" bgcolor="#0a2318">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#38BDF8"></td></tr></table>
 <h3>🧬</h3>
 <b>Forensics</b><br/><br/>
 Network Forensics<br/>Memory Forensics
 </td>
 <td width="34%" align="center" valign="top" bgcolor="#0f172a">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#FFB86C"></td></tr></table>
 <h3>💻</h3>
 <b>Programming</b><br/><br/>
 C++ &nbsp;·&nbsp; Java &nbsp;·&nbsp; SQL
@@ -60,13 +55,11 @@ C++ &nbsp;·&nbsp; Java &nbsp;·&nbsp; SQL
 </tr>
 <tr>
 <td width="33%" align="center" valign="top" bgcolor="#0a2318">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#FF6B9D"></td></tr></table>
 <h3>🌐</h3>
 <b>Systems & Networking</b><br/><br/>
 Linux<br/>Networking Fundamentals
 </td>
 <td width="66%" colspan="2" align="center" valign="top" bgcolor="#0f172a">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#8B5CF6"></td></tr></table>
 <h3>🧩</h3>
 <b>Additional Strengths</b><br/><br/>
 Problem Solving &nbsp;·&nbsp; Video Editing &nbsp;·&nbsp; Social Media Handling
@@ -81,22 +74,18 @@ Problem Solving &nbsp;·&nbsp; Video Editing &nbsp;·&nbsp; Social Media Handlin
 <table>
 <tr>
 <td align="center" valign="top" bgcolor="#0f172a" width="25%">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#FF4655"></td></tr></table>
 <img src="https://api.iconify.design/mdi/shield-check.svg?color=%23FF4655" width="36"/><br/><br/>
 <a href="https://tryhackme.com/"><b>TryHackMe</b></a><br/><sub>Blue team rooms</sub>
 </td>
 <td align="center" valign="top" bgcolor="#0a2318" width="25%">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#F5A623"></td></tr></table>
 <img src="https://api.iconify.design/mdi/shield-check.svg?color=%23F5A623" width="36"/><br/><br/>
 <a href="https://cyberdefenders.org/"><b>CyberDefenders</b></a><br/><sub>Investigations</sub>
 </td>
 <td align="center" valign="top" bgcolor="#0f172a" width="25%">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#9B59B6"></td></tr></table>
 <img src="https://api.iconify.design/mdi/shield-check.svg?color=%239B59B6" width="36"/><br/><br/>
 <a href="https://blueteamlabs.online/"><b>BTLO</b></a><br/><sub>Incident scenarios</sub>
 </td>
 <td align="center" valign="top" bgcolor="#0a2318" width="25%">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#2ECC71"></td></tr></table>
 <img src="https://api.iconify.design/mdi/shield-check.svg?color=%232ECC71" width="36"/><br/><br/>
 <a href="https://letsdefend.io/"><b>LetsDefend</b></a><br/><sub>SOC triage</sub>
 </td>
@@ -111,32 +100,27 @@ Problem Solving &nbsp;·&nbsp; Video Editing &nbsp;·&nbsp; Social Media Handlin
 <table>
 <tr>
 <td width="50%" valign="top" bgcolor="#0f172a">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#4285F4"></td></tr></table>
 <img src="https://api.iconify.design/mdi/certificate.svg?color=%234285F4" width="30" align="left"/>&nbsp;&nbsp;
-<b>Google Cybersecurity Certificate</b><br/><sub>Google / Coursera</sub>
+<b>Google Cybersecurity Certificate</b><br/><sub><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google / Coursera</a></sub>
 </td>
 <td width="50%" valign="top" bgcolor="#0a2318">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#F4B400"></td></tr></table>
 <img src="https://api.iconify.design/mdi/alpha-h-circle.svg?color=%23F4B400" width="30" align="left"/>&nbsp;&nbsp;
-<b>Wazuh SIEM Challenge</b><br/><sub>HexCamp</sub>
+<b>Wazuh SIEM Challenge</b><br/><sub><a href="https://haxcamp.com/">HexCamp</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" bgcolor="#0a2318">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#1679A7"></td></tr></table>
 <img src="https://api.iconify.design/mdi/alpha-h-circle.svg?color=%231679A7" width="30" align="left"/>&nbsp;&nbsp;
-<b>Wireshark Challenge</b><br/><sub>HexCamp</sub>
+<b>Wireshark Challenge</b><br/><sub><a href="https://haxcamp.com/">HexCamp</a></sub>
 </td>
 <td width="50%" valign="top" bgcolor="#0f172a">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#049FD9"></td></tr></table>
 <img src="https://api.iconify.design/mdi/certificate.svg?color=%23049FD9" width="30" align="left"/>&nbsp;&nbsp;
-<b>Hardware & Network Protocols</b><br/><sub>Cisco Networking Academy</sub>
+<b>Hardware & Network Protocols</b><br/><sub><a href="https://www.netacad.com/">Cisco Networking Academy</a></sub>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center" valign="top" bgcolor="#0a2318">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#8B5CF6"></td></tr></table>
-<img src="https://api.iconify.design/mdi/alpha-f-circle.svg?color=%238B5CF6" width="26" align="absmiddle"/>&nbsp; 🏆 &nbsp;<b>Cybersecurity Job Simulation</b><br/><sub>Forage</sub>
+<img src="https://api.iconify.design/mdi/alpha-f-circle.svg?color=%238B5CF6" width="26" align="absmiddle"/>&nbsp; 🏆 &nbsp;<b>Cybersecurity Job Simulation</b><br/><sub><a href="https://www.theforage.com/">Forage</a></sub>
 </td>
 </tr>
 </table>
@@ -150,31 +134,26 @@ Problem Solving &nbsp;·&nbsp; Video Editing &nbsp;·&nbsp; Social Media Handlin
 <table>
 <tr>
 <td width="50%" valign="top" bgcolor="#0f172a">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#00FF9C"></td></tr></table>
 <h3>🎥 AI CCTV Camera Hacking Detector</h3>
 University project using AI to detect unauthorized access and tampering on CCTV camera feeds.
 </td>
 <td width="50%" valign="top" bgcolor="#0a2318">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#38BDF8"></td></tr></table>
 <h3>🧮 Java Calculator</h3>
 Correctly implements operator precedence and associativity rules.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" bgcolor="#0a2318">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#FFB86C"></td></tr></table>
 <h3>🔐 Secure vs Insecure Form Analyzer</h3>
 Compares secure and insecure form implementations to demonstrate real vulnerability impact.
 </td>
 <td width="50%" valign="top" bgcolor="#0f172a">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#FF6B9D"></td></tr></table>
 <h3>🔑 Password Strength Policy Demo</h3>
 Demonstrates how password strength policies enforce secure password creation.
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" bgcolor="#0a2318">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#8B5CF6"></td></tr></table>
 <h3>🧬 Hash Algorithm Speed Comparison</h3>
 Three forms showing how different hashing algorithms generate different hashes and the computation time each takes.
 </td>
@@ -189,15 +168,12 @@ Three forms showing how different hashing algorithms generate different hashes a
 
 <table>
 <tr><td bgcolor="#0f172a">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#00FF9C"></td></tr></table>
 🎓 &nbsp;<b>BS Cybersecurity</b> — KFUEIT &nbsp;·&nbsp; <i>5th Semester, In Progress</i>
 </td></tr>
 <tr><td bgcolor="#0a2318">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#38BDF8"></td></tr></table>
 🧪 &nbsp;<b>FSc Pre-Medical</b> — KFC, Rahim Yar Khan &nbsp;·&nbsp; <b>Grade A</b>
 </td></tr>
 <tr><td bgcolor="#0f172a">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td height="4" bgcolor="#8B5CF6"></td></tr></table>
 📘 &nbsp;<b>Matriculation</b> — Govt. Comprehensive School &nbsp;·&nbsp; <b>Grade A</b>
 </td></tr>
 </table>
